@@ -1,6 +1,6 @@
 [![Open in Leap IDE](
   https://cdn-assets.cloud.dwavesys.com/shared/latest/badges/leapide.svg)](
-  https://ide.dwavesys.io/#https://github.com/dwave-examples/knapsack)
+  https://ide-coder-dev.dwavesys.io/templates/dwave-example/workspace?param.git_repo=https://github.com/dwave-examples/knapsack)
 [![Linux/Mac/Windows build status](
   https://circleci.com/gh/dwave-examples/knapsack.svg?style=shield)](
   https://circleci.com/gh/dwave-examples/knapsack)
